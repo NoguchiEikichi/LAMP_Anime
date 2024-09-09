@@ -1,3 +1,4 @@
+//ページ内リンク
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', function(e) {
         e.preventDefault();
@@ -10,3 +11,8 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         }
     });
 });
+
+//ヘッダーの読み込み
+fetch('../reference/header.html')
+.then(response => response.text())
+.then(data => document.getElementById('main-header').innerHTML = data);
