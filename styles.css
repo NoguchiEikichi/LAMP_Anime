@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #232323;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #fbff00;
+    color: #333;
+    text-align: center;
+    padding: 20pt;
+}
+
+h1 {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start; /* 左右のテキストを上揃えにする */
+    padding: 20px;
+}
+
+.left-text, .right-text {
+    color: #f0f8ff;
+    flex: 1; /* 両方のテキスト要素が余白を取りつつ配置されるようにする */
+    margin: 0;
+    white-space: normal;
+    word-wrap: break-word;
+    margin-top: 30px;
+    max-width: 45%; /* テキストの最大幅を設定し、間隔を確保 */
+}
+
+.right-text {
+    text-align: right; /* 右側のテキストを右揃えにする */
+}
+
+.title-text {
+    font-size: xx-large;
+    line-height: 1px;
+}
+
+footer {
+    background-color: #fbff00;
+    color: #333;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+}
