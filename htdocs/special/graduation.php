@@ -9,9 +9,9 @@
 <body>
     <header id="main-header" style="text-align:left; padding: 2px 0 0; "></header>
 
-    <h1 style="color: #f0f8ff;">　スペシャルイベントページです。</h1>
+    <h1>　スペシャルイベントページです。</h1>
     
-    <p><a href="index.html" style="color:#f0f8ff; text-decoration: none">一覧に戻る</a></p>
+    <p><a href="index.html">一覧に戻る</a></p>
     
     <footer>
         <p></p>

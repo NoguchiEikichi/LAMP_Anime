@@ -13,7 +13,13 @@ header {
 }
 
 h1 {
+    color:#f0f8ff;
     margin: 0;
+}
+
+a {
+    color:#f0f8ff;
+    text-decoration: none;
 }
 
 .container {
