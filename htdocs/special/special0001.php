@@ -11,7 +11,7 @@
 
     <h1>　インタビューページです。</h1>
     
-    <p><a class="link" href="index.html">一覧に戻る</a></p>
+    <p><a class="link_text" href="index.html">一覧に戻る</a></p>
     
     <footer>
         <p></p>

@@ -12,8 +12,8 @@
     <h1>　一期ストーリーページです。</h1>
     
     <div class="container">
-        <p class="left-text"><a class="link" href="index_1st.php">第一期</a></p>
-        <p class="left-text"><a class="link" href="index.html">第二期</a></p>
+        <p class="left-text"><a class="link_text" href="index_1st.php">第一期</a></p>
+        <p class="left-text"><a class="link_text" href="index.html">第二期</a></p>
     </div>
 
     <footer>

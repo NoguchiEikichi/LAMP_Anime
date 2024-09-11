@@ -17,7 +17,7 @@ h1 {
     margin: 0;
 }
 
-.link, .title-text{
+.link_text, .title-text{
     color:#f0f8ff;
     text-decoration: none;
 }
