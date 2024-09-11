@@ -16,3 +16,8 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 fetch('../reference/header.html')
 .then(response => response.text())
 .then(data => document.getElementById('main-header').innerHTML = data);
+
+//フッターの読み込み
+fetch('../reference/footer.html')
+.then(response => response.text())
+.then(data => document.getElementById('main-footer').innerHTML = data);
