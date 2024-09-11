@@ -11,7 +11,7 @@
 
     <h1>　スペシャルイベントページです。</h1>
     
-    <p><a href="index.html">一覧に戻る</a></p>
+    <p><a class="link" href="index.html">一覧に戻る</a></p>
     
     <footer>
         <p></p>

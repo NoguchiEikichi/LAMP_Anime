@@ -17,7 +17,7 @@ h1 {
     margin: 0;
 }
 
-a {
+.link, .title-text{
     color:#f0f8ff;
     text-decoration: none;
 }
@@ -26,7 +26,7 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: flex-start; /* 左右のテキストを上揃えにする */
-    padding: 20px;
+    padding: 0 20px;
 }
 
 .left-text, .right-text {
