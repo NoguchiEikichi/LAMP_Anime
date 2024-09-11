@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #ffffff;
+    background-color: #232323;
     margin: 0;
     padding: 0;
 }
@@ -17,7 +17,7 @@ h1 {
     margin: 0;
 }
 
-.link_text, .title-text{
+.link, .title-text{
     color:#f0f8ff;
     text-decoration: none;
 }
