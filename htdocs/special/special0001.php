@@ -13,9 +13,7 @@
     
     <p><a class="link_text" href="index.html">一覧に戻る</a></p>
     
-    <footer>
-        <p></p>
-    </footer>
+    <footer id="main-footer"></footer>
 
     <script src="../common.js" defer></script>
 </body>
